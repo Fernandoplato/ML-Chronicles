@@ -1,0 +1,11 @@
+# basic options
+title: My ML-Chronicles #Your awesome title
+author: Fernandoplato #GitHub User
+email: your-email@domain.com
+description: My ML-Chronicles
+twitter_username: jekyllrb
+github_username:  Fernandoplato
+
+# Build settings
+markdown: kramdown
+theme: minima
